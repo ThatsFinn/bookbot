@@ -1,7 +1,6 @@
 # bookbot
 Python script that automatically types text into books in Minecraft. 
 
--- WARNING --
 Ensure you do not delete the "arrow.png" image file. This is required to allow the bot to turn pages in the book.
 
 -- USAGE --
