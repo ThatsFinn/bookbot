@@ -1,7 +1,6 @@
 import pyautogui
 from pynput.keyboard import Key, Controller
 from time import sleep
-from tkinter import Tk
 import os
 
 keyboard = Controller()
@@ -15,7 +14,6 @@ if cords == None:
     print('[BookBot] Exiting program.')
     os.system('pause')
     quit()
-
 else:
     print('[BookBot] Found arrow button successfully!')
 
